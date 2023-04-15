@@ -10,7 +10,7 @@ Data Source: https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
 
 ## Project Archietecture:
 
-![Project Architecture](Project Architecture.jpg)
+![Project Architecture](https://raw.githubusercontent.com/Harshad2010/Face-Recognition/main/Project%20Architecture.jpg)
 
 
 
