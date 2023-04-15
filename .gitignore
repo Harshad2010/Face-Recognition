@@ -12,7 +12,7 @@ FRM/
 data_source/
 build/
 model/
-Flask_App/
+Flask_App/model
 develop-eggs/
 dist/
 downloads/
