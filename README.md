@@ -12,6 +12,22 @@ Data Source: https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
 
 ![Project Architecture](https://raw.githubusercontent.com/Harshad2010/Face-Recognition/main/Project%20Architecture.jpg)
 
+## Face Recognition Web App:
+This face recognition web app is integrated with machine learning model. Here user can upload an image and our machine learning model will detect face and predict gender (Male or Female).
+
+![FR APP](https://raw.githubusercontent.com/Harshad2010/Face-Recognition/main/Gender%20classification.jpg)
+
+### Project Output
+
+![PRED_IMAGE](https://raw.githubusercontent.com/Harshad2010/Face-Recognition/main/predicted%20image.jpg)
+
+
+
+
+
+
+
+
 
 
 
